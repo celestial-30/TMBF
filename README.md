@@ -1,2 +1,2 @@
 # TMBF
-Discord bot to automatically collect information on right wing extremists on discord
+Discord bot that automatically collects information about right wing extremists on discord.
